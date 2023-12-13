@@ -166,7 +166,9 @@ button:active {
   bottom: 230px;
   border-radius: 50%;
   transition: all 2s;
-  position: static;
+  position: absolute;
+  left: 1000px;
+  bottom: 275px;
 }
 
 .Skills {
